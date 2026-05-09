@@ -1,4 +1,3 @@
-@@ -0,0 +1,24 @@
 ## Description
 The Clinic system is designed to manage or help patients to book appoinments, make payment and order there prescribed medications efficiently.
 
