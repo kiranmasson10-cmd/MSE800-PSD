@@ -1,9 +1,7 @@
 Project Title
-
 Factory Design Pattern in Python
 
 Description
-
 This project demonstrates the Factory Design Pattern using Python abstract classes and inheritance. The application creates animal objects (Dog and Cat) using factory classes instead of directly instantiating objects.
 
 Technologies Used
@@ -19,5 +17,4 @@ Expected Output
 I'm a Dog, I can run!!
 I'm a Cat, I can run!!
 Design Pattern Used
-
 Factory Design Pattern
